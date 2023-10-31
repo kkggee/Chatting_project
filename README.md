@@ -60,6 +60,11 @@
   </tr>
 </table>
 
-https://github.com/kkggee/Chatting_project/assets/95170836/22357943-85a5-440a-b27d-77ffcc2d315e
-
-[알림음]
+<table>
+   <tr>
+     <th align="center">
+       https://github.com/kkggee/Chatting_project/assets/95170836/22357943-85a5-440a-b27d-77ffcc2d315e
+       <br><br>[알림음] 
+    </th>
+   </tr>
+</table>
