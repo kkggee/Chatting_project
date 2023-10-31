@@ -3,7 +3,7 @@
 
  #### JAVA를 이용한 소켓 채팅 프로그램
 
-## summary
+## Summary
 - Project nickname : 보노보노(bonobono)
 - Project Executin period : 2022.03-2022.06
 - Programming language : JAVA
