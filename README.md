@@ -62,6 +62,8 @@
 
 
 
-https://github.com/kkggee/Chatting_project/assets/95170836/bf305277-d882-47c9-bae9-e263f5c7e863
-<br<br>[알림]
+https://github.com/kkggee/Chatting_project/assets/95170836/a67d6949-2f06-4f06-b367-c88d5679794e
+
+
+
 
