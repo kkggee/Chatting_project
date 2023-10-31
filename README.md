@@ -1,15 +1,15 @@
 <div align="center">
-<h2>[2022] SW 공학 프로젝트 - 채팅 프로그램 💬</h2></div>
+<h1>[2022] SW 공학 프로젝트 - 채팅 프로그램 💬</h1></div>
 
  #### JAVA를 이용한 소켓 채팅 프로그램
 
-# summary
-- Project nickname : 보노보노
+## summary
+- Project nickname : 보노보노(bonobono)
 - Project Executin period : 2022.03-2022.06
 - programming language : JAVA
 
 
-# Description
+## Description
 <table>
    <tr>
      <th align="center">
@@ -67,7 +67,7 @@ https://github.com/kkggee/Chatting_project/assets/95170836/a67d6949-2f06-4f06-b3
 
 <br/>
 
-# Demonstration video
+## Demonstration video
 
 https://github.com/kkggee/Chatting_project/assets/95170836/b90d4a61-8f45-4c37-a8c3-9f0a28456535
 
