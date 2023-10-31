@@ -13,7 +13,7 @@
 <table>
    <tr>
      <th align="center">
-       <img width="200" alt="1" src="https://github.com/kkggee/Chatting_project/assets/95170836/cd8b3c11-0bcc-4dbb-8537-3567873f0973"/>
+       <img width="200" alt="1" src="https://github.com/kkggee/Chatting_project/assets/95170836/df8b0199-0c75-41b6-acf7-2f611f74fa6e"/>
        <br><br>[로그인] 
     </th>
      <th align="center">
