@@ -60,5 +60,6 @@
   </tr>
 </table>
 
-https://github.com/kkggee/Chatting_project/assets/95170836/e428e955-9f36-4507-b479-8676b10cf96c
+https://github.com/kkggee/Chatting_project/assets/95170836/22357943-85a5-440a-b27d-77ffcc2d315e
+
 [알림음]
