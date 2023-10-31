@@ -62,15 +62,10 @@
 </table>
 
 
-
-https://github.com/kkggee/Chatting_project/assets/95170836/a67d6949-2f06-4f06-b367-c88d5679794e
+https://github.com/kkggee/Chatting_project/assets/95170836/07dab072-dd66-4020-ae35-5cb8d59b1c59
 
 <br/>
 
 ## Demonstration video
 
-https://github.com/kkggee/Chatting_project/assets/95170836/b90d4a61-8f45-4c37-a8c3-9f0a28456535
-
-
-
-
+https://github.com/kkggee/Chatting_project/assets/95170836/e8c4b06d-591e-4edc-bf81-d760bbc80649
