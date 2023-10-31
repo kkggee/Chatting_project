@@ -6,7 +6,7 @@
 ## summary
 - Project nickname : 보노보노(bonobono)
 - Project Executin period : 2022.03-2022.06
-- programming language : JAVA
+- Programming language : JAVA
 
 
 ## Description
