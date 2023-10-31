@@ -8,6 +8,7 @@
 - Project Executin period : 2022.03-2022.06
 - programming language : JAVA
 
+
 ## Description
 <table>
    <tr>
@@ -63,6 +64,8 @@
 
 
 https://github.com/kkggee/Chatting_project/assets/95170836/a67d6949-2f06-4f06-b367-c88d5679794e
+
+<br/>
 
 ## Demonstration video
 
